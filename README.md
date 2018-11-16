@@ -15,3 +15,7 @@ Gain a good understanding of the following concepts:<br>
 SFML is one of the easiest game frameworks in the world and will provide you with a solid foundation for your game development journey. The gaming industry is bigger than Hollywood and is constantly growing, start your journey now.<br>
 
 You will be provided with the full source code to aid in development during and after this course. The source code and artwork is free to use in as many projects as you wish.<br>
+
+# Run Demo
+
+![display](https://github.com/baihuirong/Flappy-Bird-SFML-Learning/blob/master/Flappy-Bird-SFML-demo.gif)
